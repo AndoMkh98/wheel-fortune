@@ -1,0 +1,12 @@
+{
+  "sectors": [
+    { "text": "100%", "color": "#FFEB3B" },
+    { "text": "200%", "color": "#FF9800" },
+    { "text": "300%", "color": "#FF5722" },
+    { "text": "400%", "color": "#F44336" },
+    { "text": "500%", "color": "#E91E63" },
+    { "text": "600%", "color": "#9C27B0" },
+    { "text": "700%", "color": "#673AB7" },
+    { "text": "800%", "color": "#3F51B5" }
+  ]
+}
